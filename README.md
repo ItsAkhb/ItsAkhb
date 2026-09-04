@@ -55,7 +55,8 @@ ali@github:~$ cat about.txt
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ItsAkhb&ring=CF9556&fire=CF9556&currStreakLabel=CF9556&sideLabels=a89478&dates=7a6b57&currStreakNum=f1e7d8&sideNums=f1e7d8&background=17120e&border=3c2f22&hide_border=false" alt="Streak" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAkhb&layout=compact&title_color=CF9556&text_color=a89478&bg_color=17120e&border_color=3c2f22&langs_count=6" alt="Top langs" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ItsAkhb&theme=github_dark" alt="Repos per language" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ItsAkhb&theme=github_dark" alt="Most commit language" height="165"/>
 </div>
 
 ### 🐍 Contribution snake
