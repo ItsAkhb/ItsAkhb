@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=1200&color=CF9556&center=true&vCenter=true&multiline=true&repeat=true&width=640&height=90&lines=%D8%B1%D9%88%D8%B2%D9%87%D8%A7+%D9%BE%D8%A7%DB%8C+%DA%A9%D8%AA%D8%A7%D8%A8+%DA%A9%D9%86%DA%A9%D9%88%D8%B1%D9%85%D8%9B+شب‌ها+کد;Days%3A+konkur+grind.+Nights%3A+code.;Building+TestBox+%F0%9F%93%A6" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=1200&color=CF9556&center=true&vCenter=true&repeat=true&width=620&height=50&lines=%D8%B1%D9%88%D8%B2%D9%87%D8%A7+%DA%A9%D9%86%DA%A9%D9%88%D8%B1%D8%9B+%D8%B4%D8%A8%E2%80%8C%D9%87%D8%A7+%DA%A9%D8%AF;Days%3A+konkur+grind.+Nights%3A+code.;Building+TestBox+%F0%9F%93%A6" alt="Typing SVG" />
 
 # سلام، علی‌ام 👋 · Hey, I'm Ali
 
@@ -54,9 +54,8 @@ ali@github:~$ cat about.txt
 ### 📊 GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItsAkhb&show_icons=true&title_color=CF9556&icon_color=CF9556&text_color=a89478&bg_color=17120e&border_color=3c2f22&hide_border=false" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAkhb&layout=compact&title_color=CF9556&text_color=a89478&bg_color=17120e&border_color=3c2f22" alt="Top langs" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=ItsAkhb&ring=CF9556&fire=CF9556&currStreakLabel=CF9556&sideLabels=a89478&dates=7a6b57&currStreakNum=f1e7d8&sideNums=f1e7d8&background=17120e&border=3c2f22" alt="Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=ItsAkhb&ring=CF9556&fire=CF9556&currStreakLabel=CF9556&sideLabels=a89478&dates=7a6b57&currStreakNum=f1e7d8&sideNums=f1e7d8&background=17120e&border=3c2f22&hide_border=false" alt="Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAkhb&layout=compact&title_color=CF9556&text_color=a89478&bg_color=17120e&border_color=3c2f22&langs_count=6" alt="Top langs" height="165"/>
 </div>
 
 ### 🐍 Contribution snake
